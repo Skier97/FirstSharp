@@ -4,3 +4,9 @@ C:\Users\Пользователь\Desktop\FirstProjectSharp\FirstProjectSharp\bi
 C:\Users\Пользователь\Desktop\FirstProjectSharp\FirstProjectSharp\obj\Debug\FirstProjectSharp.csprojAssemblyReference.cache
 C:\Users\Пользователь\Desktop\FirstProjectSharp\FirstProjectSharp\obj\Debug\FirstProjectSharp.exe
 C:\Users\Пользователь\Desktop\FirstProjectSharp\FirstProjectSharp\obj\Debug\FirstProjectSharp.pdb
+C:\Users\Пользователь\Desktop\Projects VS\FirstProjectSharp\FirstProjectSharp\bin\Debug\FirstProjectSharp.exe.config
+C:\Users\Пользователь\Desktop\Projects VS\FirstProjectSharp\FirstProjectSharp\bin\Debug\FirstProjectSharp.exe
+C:\Users\Пользователь\Desktop\Projects VS\FirstProjectSharp\FirstProjectSharp\bin\Debug\FirstProjectSharp.pdb
+C:\Users\Пользователь\Desktop\Projects VS\FirstProjectSharp\FirstProjectSharp\obj\Debug\FirstProjectSharp.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Projects VS\FirstProjectSharp\FirstProjectSharp\obj\Debug\FirstProjectSharp.exe
+C:\Users\Пользователь\Desktop\Projects VS\FirstProjectSharp\FirstProjectSharp\obj\Debug\FirstProjectSharp.pdb
